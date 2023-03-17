@@ -1,0 +1,60 @@
+Username: nikhilkrana1995@gmail.com
+Password: Ydy48LcPFgYPMjsV6RSP
+
+jira cloud server creditials-
+work email - nikhilrana1995@gmail.com
+your site -project1-nikhilkran.atlassian.net
+           project2-nikhilrana1995.atlassian.net
+Precondition
+enter all the  valid crediatial into login page
+click on login button
+end to end scenerios - expedition to potential
+   Click on newExpedition button
+1. Create  a newExpedition module
+2. Add all the necessary details in expedition module
+3. click on save button
+   Click on newAccount button
+4. Create a newaccountmodule
+5. add all the necessary details in account details page
+6. click on save button
+   Click on newContact module
+7. click on newcontact module
+8. add all the necessary details in contact details page
+9. click on save button
+   Click on Lead Button
+10 Add all the necessary details inlead details page
+11.click on save button
+12. click on lead present on lead listing page
+13. convert the lead to potential
+14. click on save button
+flow- created expedition should be converted into potentuial
+
+
+end to end scenerio - product to invoice  
+   Click on newVendor button
+1. Create  a newVendor module
+2. Add all the necessary details in vendor details module
+3. click on save button
+   Click on newPriceBook button
+4. Create a newPriceBook module
+5. add all the necessary details in PriceBook details page
+6. click on save button
+   Click on new Product module
+7. create a newProduct module
+8. add all the necessary details in product details page
+9. click on save button
+   Click on Quote Button
+10 Add all the necessary details Quote details page
+11.click on save button
+12. Create  a newSalesOrder module
+13. Add all the necessary details in salesorder details module
+14. click on save button
+   Click on newPurchase order button
+15. Create a newPurchase order module
+16. add all the necessary details in Purchaseorder details page
+17. click on save button
+   Click on new Invoice module
+18. create a newInvoice module
+19. add all the necessary details in Invoice details page
+20. click on save button
+flow- created product and invoice should get generated
